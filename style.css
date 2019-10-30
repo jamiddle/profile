@@ -93,10 +93,11 @@ p{
   margin-bottom: 15px;
 }
 
-#headshot {
+.headshot {
   border-radius: 50%;
   height: 15%;
   width: 15%;
+  border: 1px solid #FCAB10;
 }
 
 a {
